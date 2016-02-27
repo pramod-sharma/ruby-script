@@ -1,0 +1,18 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    aws-sdk (2.2.19)
+      aws-sdk-resources (= 2.2.19)
+    aws-sdk-core (2.2.19)
+      jmespath (~> 1.0)
+    aws-sdk-resources (2.2.19)
+      aws-sdk-core (= 2.2.19)
+    byebug (8.2.2)
+    jmespath (1.1.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  aws-sdk (~> 2.2.19)
+  byebug

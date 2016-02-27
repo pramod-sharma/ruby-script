@@ -1,0 +1,6 @@
+/data/*
+!/data/.keep
+/config/aws.yml
+/log/*
+!/log/.keep
+.byebug_history
